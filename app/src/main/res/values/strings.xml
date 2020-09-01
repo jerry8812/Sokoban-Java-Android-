@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sokoban</string>
+    <string name="up">upArrow</string>
+    <string name="down">downArrow</string>
+    <string name="left">leftArrow</string>
+    <string name="right">rightArrow</string>
+    <string name="moves">Moves</string>
+    <string name="completed">Complete</string>
+    <string name="moveCount">0</string>
+    <string name="level">Level</string>
+    <string name="chooseLevels">Choose Level</string>
+    <string name="undo">Undo</string>
+    <string name="playback">playback</string>
+</resources>
